@@ -2,7 +2,7 @@
 
 # Front-end da aplicação ScreenMatch
 
-Essa é a aplicação Front-end que foi utilizada no curso.
+Essa é a aplicação Front-end que utiliza a API do <a href=https://github.com/manuverso/screenmatch-series>Screenmatch Series</a>
 
 Para visualizar a mesma, após o download ou clone do projeto, abra-a com o VS Code
 
